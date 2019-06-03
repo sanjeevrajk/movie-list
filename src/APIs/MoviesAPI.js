@@ -1,4 +1,4 @@
-  const api = "http://moviesearch2019.herokuapp.com";
+  const api = "https://moviesearch2019.herokuapp.com";
 
   const headers = {
     'Accept': 'application/json',
